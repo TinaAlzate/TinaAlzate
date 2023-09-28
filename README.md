@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Valentina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TinaAlzate)](https://github.com/TinaAlzate/github-readme-stats)
 
 <!--
 **TinaAlzate/TinaAlzate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
